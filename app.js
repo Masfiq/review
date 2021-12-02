@@ -2,7 +2,7 @@
 const reviews = [
   {
     id: 1,
-    name: "susan smith",
+    name: "Muhammad Abdul Ahad",
     job: "web developer",
     img:
       // "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg",
@@ -12,7 +12,7 @@ const reviews = [
   },
   {
     id: 2,
-    name: "anna johnson",
+    name: "Jay Smith",
     job: "web designer",
     img:
       "p-3.jpg",
